@@ -1,0 +1,6 @@
+ru\savin\producer\model\Person.class
+ru\savin\producer\producer\Producer.class
+ru\savin\producer\KafkaSavinProducer.class
+ru\savin\producer\config\ConfigProducer.class
+ru\savin\producer\controller\PersonController.class
+ru\savin\producer\service\PersonService.class

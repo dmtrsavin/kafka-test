@@ -1,0 +1,8 @@
+C:\Work\kafka\kafka-savin-consumer\src\main\java\ru\savin\consumer\config\ConsumerConfig.java
+C:\Work\kafka\kafka-savin-consumer\src\main\java\ru\savin\consumer\consumer\ConsumerPerson.java
+C:\Work\kafka\kafka-savin-consumer\src\main\java\ru\savin\consumer\entity\PersonEntity.java
+C:\Work\kafka\kafka-savin-consumer\src\main\java\ru\savin\consumer\dto\PersonDto.java
+C:\Work\kafka\kafka-savin-consumer\src\main\java\ru\savin\consumer\KafkaSavinConsumer.java
+C:\Work\kafka\kafka-savin-consumer\src\main\java\ru\savin\consumer\service\PersonService.java
+C:\Work\kafka\kafka-savin-consumer\src\main\java\ru\savin\consumer\mapper\PersonMapper.java
+C:\Work\kafka\kafka-savin-consumer\src\main\java\ru\savin\consumer\repository\PersonRepository.java

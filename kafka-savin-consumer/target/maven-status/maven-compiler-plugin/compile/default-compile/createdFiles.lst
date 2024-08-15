@@ -1,0 +1,9 @@
+ru\savin\consumer\KafkaSavinConsumer.class
+ru\savin\consumer\mapper\PersonMapper.class
+ru\savin\consumer\mapper\PersonMapperImpl.class
+ru\savin\consumer\consumer\ConsumerPerson.class
+ru\savin\consumer\dto\PersonDto.class
+ru\savin\consumer\entity\PersonEntity.class
+ru\savin\consumer\config\ConsumerConfig.class
+ru\savin\consumer\repository\PersonRepository.class
+ru\savin\consumer\service\PersonService.class
